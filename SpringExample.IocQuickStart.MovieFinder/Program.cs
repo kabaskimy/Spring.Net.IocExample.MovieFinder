@@ -43,6 +43,7 @@ namespace SpringExample.IocQuickStart.MovieFinder
             {
                 Console.WriteLine();
                 Console.WriteLine("--- hit <return> to quit ---");
+                Console.WriteLine("Hello");
                 Console.ReadLine();
             }
         }

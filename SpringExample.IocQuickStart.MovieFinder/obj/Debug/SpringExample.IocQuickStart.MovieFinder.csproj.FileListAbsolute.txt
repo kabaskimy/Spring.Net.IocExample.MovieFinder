@@ -1,0 +1,1 @@
+C:\Users\kahn\Documents\GitHub\Spring.Net.IocExample.MovieFinder\SpringExample.IocQuickStart.MovieFinder\bin\Debug\SpringExample.IocQuickStart.MovieFinder.exe.config
